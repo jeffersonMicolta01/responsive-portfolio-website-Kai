@@ -1,6 +1,6 @@
-# How To Make Responsive Portfolio Website
+# How To Make Responsive Portfolio Website Kai
 ## [Watch it on youtube](https://youtu.be/hsHZXjQQFuQ)
-### How To Make Responsive Portfolio Website 
+### How To Make Responsive Portfolio Website Kai
 
 - How To Make Responsive Portfolio Website Using HTML CSS JavaScript 
 - Contains animations when scrolling.
